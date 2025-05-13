@@ -34,13 +34,4 @@ for epoch in range(epochs):
 
     qre_list.append(qre_value)
 
-## Calculate
-def calculate(qre_list, epochs, n_qubits):
-    d = 2 ** n_qubits
-    S_max = np.log2(d)
-    
-    OzQIS = 1 - (np.sum(qre_list) / (epochs * S_max))
-    OzQIS = np.clip(OzQIS_QRE, 0, 1)
-    print(OzQIS)
-    return OzQIS
-
+calculate(qre_list, epochs, n_qubits)
