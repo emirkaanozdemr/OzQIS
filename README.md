@@ -4,7 +4,7 @@
 
 ## Overview
 
-The `full_implementation.py` script calculates the **Quantum Information Science (QIS)** value by using quantum relative entropy to measure the similarity between quantum states. It does this by running a parameterized quantum circuit, computing the quantum state, and evaluating how close this state is to a reference state.
+The `implementation/full_implementation.py` script calculates the **Quantum Information Science (QIS)** value by using quantum relative entropy to measure the similarity between quantum states. It does this by running a parameterized quantum circuit, computing the quantum state, and evaluating how close this state is to a reference state.
 
 ## Functionality
 
