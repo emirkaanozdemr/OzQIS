@@ -22,5 +22,5 @@ The `implementation/full_implementation.py` script calculates the **Quantum Info
 
 ## Purpose
 
-The purpose of the script is to quantify how similar a quantum state is to a reference state using quantum relative entropy. This provides insight into how the state evolves with different parameters and can be used in various quantum information applications.
+The purpose of the script is to present all operations mentioned in the article as a single, simple example, and it is recommended that you use 'implementation/library_implementation.py' in your own code.
 
