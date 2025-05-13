@@ -1,9 +1,9 @@
-# 🌌 OzQIS
+# OzQIS
 
 **OzQIS: Evaluating Quantum Learning**  
 Developed by **Emir Kaan Özdemir** and **Emre Dinç**
 
-This repository contains the implementation code for **OzQIS**, a novel metric designed to evaluate quantum machine learning models from an interpretability perspective.
+This repository contains the implementation code for **OzQIS: Evaluating Quantum Learning**, a novel metric designed to evaluate quantum machine learning models from an interpretability perspective.
 
 ---
 
@@ -19,3 +19,10 @@ To use the OzQIS metric in your own quantum learning projects, you can install i
 
 ```bash
 pip install ozqis
+
+## 🔩 Implementation
+
+To implement OzQIS to your own model, you can use `implementation/library_implementation.py` code as an example.
+
+## Academical Contribution
+This code was designed for the **OzQIS: Evaluating Quantum Learning** article submitted to the **Journal of Machine Learning Research.**
