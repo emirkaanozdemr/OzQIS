@@ -19,10 +19,14 @@ To use the OzQIS metric in your own quantum learning projects, you can install i
 
 ```bash
 pip install ozqis
+```
+---
 
 ## 🔩 Implementation
 
 To implement OzQIS to your own model, you can use `implementation/library_implementation.py` code as an example.
+
+---
 
 ## Academical Contribution
 This code was designed for the **OzQIS: Evaluating Quantum Learning** article submitted to the **Journal of Machine Learning Research.**
