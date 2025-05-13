@@ -43,7 +43,6 @@ for epoch in range(epochs):
 d = 2 ** n_qubits
 S_max = np.log2(d)
 
-QIS_QRE = 1 - (np.sum(qre_list) / (epochs * S_max))
-QIS_QRE = np.clip(QIS_QRE, 0, 1)
+OzQIS_QRE = 1 - (np.sum(qre_list) / (epochs * S_max))
+OzQIS_QRE = np.clip(QIS_QRE, 0, 1)
 
-print(f"QIS (Quantum Relative Entropy ile): {QIS_QRE:.4f}")
