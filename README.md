@@ -29,4 +29,4 @@ To implement OzQIS to your own model, you can use `implementation/library_implem
 ---
 
 ## 📑 Academical Contribution
-This code was designed for the **OzQIS: Evaluating Quantum Learning** article submitted to the **Journal of Machine Learning Research.**
+This code was designed for the **OzQIS: Evaluating Quantum Learning** article submitted to the **Wiley Advanced Quantum Technologies.**
